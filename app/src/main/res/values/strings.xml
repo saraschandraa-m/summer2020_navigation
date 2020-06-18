@@ -3,4 +3,11 @@
 
     <string name="open">Open</string>
     <string name="close">Close</string>
+
+
+    <string-array name="fragment_titles">
+        <item>Archive</item>
+        <item>Mark As Important</item>
+        <item>Move To Inbox</item>
+    </string-array>
 </resources>
